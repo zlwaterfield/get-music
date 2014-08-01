@@ -8,7 +8,6 @@ Example output can be found in output.json
 
 
 ###### Node Modules Used
-================= 
 
 * Cheerio - [https://www.npmjs.org/package/cheerio]
 * Node Schedule - [https://www.npmjs.org/package/node-schedule]
