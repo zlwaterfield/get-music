@@ -62,7 +62,7 @@ var j = schedule.scheduleJob(rule, function(){
 			    	 console.log('Song already in list'.yellow);
 
 	 				//Console timer
-					countUpTimer.start();
+					//countUpTimer.start();
 			    }
 			}
 
@@ -75,12 +75,10 @@ var j = schedule.scheduleJob(rule, function(){
   	 				console.log('Song successfully added!'.green);
 
 	 				//Console timer
-					countUpTimer.start();
+					//countUpTimer.start();
 	  	 		});
 			} 
 		});
 	});
-
-
 });	
 
